@@ -1,0 +1,6 @@
+framework module Pods_DevelopTable {
+  umbrella header "Pods-DevelopTable-umbrella.h"
+
+  export *
+  module * { export * }
+}
